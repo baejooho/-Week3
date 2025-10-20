@@ -33,3 +33,35 @@
   ```dart
   var name = '홍길동';     // 타입 추론
   String job = '개발자';   // 명시적 선언
+
+  ---
+
+## 4. 컬렉션(Collection)  
+- **List**
+  ```dart
+  var list = [1, 2, 3];
+  list.add(4);
+
+  ---
+
+## 5. 연산자  
+- **산술 연산자**
+  ```dart
+  print(5 + 3);  // 8
+  print(10 - 4); // 6
+  print(3 * 4);  // 12
+  print(15 / 3); // 5
+  print(17 % 5); // 2
+
+  ---
+
+  
+  - **비교 연산자**
+  ```dart
+print(5 > 3);   // true
+print(5 <= 3);  // false
+print(5 == 5);  // true
+
+---
+
+
