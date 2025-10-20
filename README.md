@@ -53,9 +53,4 @@
   print(15 / 3); // 5
   print(17 % 5); // 2
   
-  - **비교 연산자**
-print(5 > 3);   // true
-print(5 <= 3);  // false
-print(5 == 5);  // true
-
 
