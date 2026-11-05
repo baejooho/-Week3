@@ -46,7 +46,7 @@ flutter run
 ## 4. 로컬 연동 체크리스트
 
 1. PostgreSQL 기동 및 스키마 자동생성/마이그레이션 확인
-2. `GET /api/hello` 응답 확인
+2. 어르신 건강상태(`health-status`) API 응답 확인
 3. Flutter에서 로그인 → 홈 진입
 4. AI 채팅 메시지 송수신
 5. (선택) FCM 테스트 발송

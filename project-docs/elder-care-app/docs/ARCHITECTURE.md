@@ -46,8 +46,7 @@
 
 ## 4. 주요 API (구현 기준)
 
-- `GET /api/hello` 헬스체크성 엔드포인트
-- Elder: 목록/상세/등록/검색/건강상태/attention-needed
+- Elder: 목록/상세/등록/검색/건강상태(`health-status`)/attention-needed
 - Call History: 최근/전체/오늘/저장
 - FCM: 토큰 등록, 테스트 발송
 - Conversation/Chat: 대화 처리 및 실시간 메시징 구성

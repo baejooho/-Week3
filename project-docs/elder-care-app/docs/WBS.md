@@ -25,7 +25,7 @@
 ### 2단계 — 기반 구축
 - `flutter_app` 생성, 테마/폰트(큰 UI) 적용
 - `backend` Spring Boot 프로젝트, PostgreSQL 연동
-- 기본 헬스체크 API
+- 어르신 건강상태 API 연동 준비
 
 ### 3단계 — 인증·역할
 - 역할 선택 화면
