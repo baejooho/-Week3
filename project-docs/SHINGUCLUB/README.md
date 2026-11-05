@@ -36,6 +36,8 @@ Next.js(App Router)와 Firebase(Authentication, Firestore, Storage)를
 git clone https://github.com/baejooho/SHINGUCLUB.git
 cd SHINGUCLUB
 npm install
+cp .env.example .env.local
+# .env.local에 Firebase 설정값 입력
 npm run dev
 ```
 
@@ -53,7 +55,6 @@ npm run dev
 
 ## 향후 계획
 
-- Firebase 설정값 환경변수화 (현재 `firebase/config.js` 하드코딩 개선)
 - 동아리 검색·카테고리 필터 강화
 - 권한/보안 규칙(Firestore Rules) 점검 및 고도화
 - 배포(Vercel) 및 도메인 연결

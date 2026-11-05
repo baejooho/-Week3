@@ -14,21 +14,26 @@ cd SHINGUCLUB
 npm install
 ```
 
-## 3. Firebase 설정
+## 3. Firebase 설정 (환경변수)
 
-현재는 `firebase/config.js`에 Firebase 웹 설정이 들어 있다.
-학습용으로 동작하지만, **운영/공개 저장소에서는 환경변수로 분리**하는 것을 권장한다.
-
-권장 형태 예시 (`.env.local`):
+Firebase 웹 설정은 코드에 넣지 않고 `.env.local`로 관리한다.
 
 ```bash
-NEXT_PUBLIC_FIREBASE_API_KEY=...
-NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=...
-NEXT_PUBLIC_FIREBASE_PROJECT_ID=...
-NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=...
-NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=...
-NEXT_PUBLIC_FIREBASE_APP_ID=...
+cp .env.example .env.local
 ```
+
+`.env.local`에 Firebase Console 값을 넣는다.
+
+| 변수명 | 설명 |
+|--------|------|
+| `NEXT_PUBLIC_FIREBASE_API_KEY` | API 키 |
+| `NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN` | Auth 도메인 |
+| `NEXT_PUBLIC_FIREBASE_PROJECT_ID` | 프로젝트 ID |
+| `NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET` | Storage 버킷 |
+| `NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID` | 메시징 센더 ID |
+| `NEXT_PUBLIC_FIREBASE_APP_ID` | 앱 ID |
+
+`.env.local`은 Git에 올라가지 않는다. (`.gitignore`에 `.env*` 포함, `.env.example`만 커밋)
 
 Firebase Console에서 확인할 항목:
 - Authentication: Email/Password 활성화
