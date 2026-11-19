@@ -1,0 +1,81 @@
+﻿country_code,country,2022,2023,country_short,diff_2023_2022,focus
+SYC,Seychelles,0.966157,2.934,Seychelles,1.9678430000000002,False
+THA,Thailand,1.3,1.0,Thailand,-0.30000000000000004,False
+LIE,"Liechtenstein, Principality of",1.317527,1.37602,Liechtenstein,0.05849300000000013,False
+AND,"Andorra, Principality of",2.1,1.525,Andorra,-0.5750000000000002,False
+SGP,Singapore,2.1,1.925,Singapore,-0.17500000000000004,False
+CZE,Czech Republic,2.164804,2.577786,Czechia,0.41298199999999996,False
+CHE,Switzerland,2.166017,1.982875,Switzerland,-0.18314200000000014,False
+VNM,Vietnam,2.32,2.3,Vietnam,-0.020000000000000018,False
+DNK,Denmark,2.508333,2.775,Denmark,0.266667,False
+JPN,Japan,2.591667,2.566667,Japan,-0.025000000000000355,True
+POL,"Poland, Republic of",2.874235,2.820243,"Poland, Republic of",-0.05399200000000004,False
+KOR,"Korea, Republic of",2.883333,2.708333,Korea,-0.17499999999999982,True
+MDA,"Moldova, Republic of",3.1085,4.59325,"Moldova, Republic of",1.4847500000000005,False
+DEU,Germany,3.141667,3.083333,Germany,-0.058333999999999886,True
+NOR,Norway,3.252102,3.594771,Norway,0.34266900000000033,False
+MEX,Mexico,3.270833,2.795833,Mexico,-0.4750000000000001,False
+NZL,New Zealand,3.325,3.775,New Zealand,0.44999999999999973,False
+MLT,Malta,3.475,3.483333,Malta,0.008332999999999924,False
+NIC,Nicaragua,3.525391,3.36196,Nicaragua,-0.1634310000000001,False
+NLD,"Netherlands, The",3.536693,3.553119,"Netherlands, The",0.01642600000000005,False
+BLR,"Belarus, Republic of",3.579762,3.455158,"Belarus, Republic of",-0.12460400000000016,False
+ISL,Iceland,3.591667,3.375,Iceland,-0.21666700000000017,False
+HUN,Hungary,3.6,4.075,Hungary,0.4750000000000001,False
+USA,United States,3.65,3.625,United States,-0.02499999999999991,True
+TWN,Taiwan Province of China,3.67,3.48,Taiwan Province of China,-0.18999999999999995,False
+MAC,"Macao Special Administrative Region, People's Republic of China",3.675,2.65,"Macao Special Administrative Region, People's Republic of China",-1.025,False
+AUS,Australia,3.708333,3.7,Australia,-0.008332999999999924,False
+ISR,Israel,3.775,3.441667,Israel,-0.3333330000000001,False
+ECU,Ecuador,3.8,3.57,Ecuador,-0.22999999999999998,False
+GBR,United Kingdom,3.8,4.05,United Kingdom,0.25,False
+MYS,Malaysia,3.825,3.425,Malaysia,-0.40000000000000036,False
+RUS,Russian Federation,3.95,3.166667,Russia,-0.7833330000000003,False
+SVN,"Slovenia, Republic of",4.014599,3.65408,"Slovenia, Republic of",-0.3605189999999996,False
+BGR,Bulgaria,4.205938,4.394562,Bulgaria,0.1886239999999999,False
+ABW,"Aruba, Kingdom of the Netherlands",4.3,4.0,Aruba,-0.2999999999999998,False
+HKG,"Hong Kong Special Administrative Region, People's Republic of China",4.35,2.975,"Hong Kong Special Administrative Region, People's Republic of China",-1.3749999999999996,False
+IRL,Ireland,4.45,4.308333,Ireland,-0.141667,False
+LKA,Sri Lanka,4.7,4.7,Sri Lanka,0.0,False
+BOL,Bolivia,4.740696,4.050863,Bolivia,-0.6898330000000001,False
+AUT,Austria,4.741667,5.1,Austria,0.358333,False
+LUX,Luxembourg,4.807758,5.226959,Luxembourg,0.41920100000000016,False
+SAU,Saudi Arabia,4.875,4.0,Saudi Arabia,-0.875,False
+KAZ,"Kazakhstan, Republic of",4.875,4.725,"Kazakhstan, Republic of",-0.15000000000000036,False
+TTO,Trinidad and Tobago,4.923892,3.98142,Trinidad and Tobago,-0.9424720000000004,False
+SLV,El Salvador,5.049882,5.216413,El Salvador,0.16653099999999998,False
+SMR,"San Marino, Republic of",5.141668,4.219878,"San Marino, Republic of",-0.9217900000000006,False
+BRN,Brunei Darussalam,5.2,5.2,Brunei Darussalam,0.0,False
+CAN,Canada,5.25,5.391667,Canada,0.141667,False
+DOM,Dominican Republic,5.293193,5.305313,Dominican Republic,0.012120000000000353,False
+IND,India,5.300492,4.938562,India,-0.3619300000000001,False
+PHL,Philippines,5.4,4.358333,Philippines,-1.0416670000000003,False
+BHR,"Bahrain, Kingdom of",5.4,6.3,"Bahrain, Kingdom of",0.8999999999999995,False
+BEL,Belgium,5.558333,5.533333,Belgium,-0.025000000000000355,False
+EST,"Estonia, Republic of",5.571156,6.376434,"Estonia, Republic of",0.8052779999999995,False
+CHN,"China, People's Republic of",5.583333,5.216667,China,-0.3666659999999995,False
+ROU,Romania,5.625,5.566667,Romania,-0.05833300000000019,False
+AZE,"Azerbaijan, Republic of",5.646465,5.45555,"Azerbaijan, Republic of",-0.1909150000000004,False
+KGZ,Kyrgyz Republic,5.648348,3.983408,Kyrgyz Republic,-1.6649400000000005,False
+IDN,Indonesia,5.86,5.32,Indonesia,-0.54,False
+BTN,Bhutan,5.9,3.5,Bhutan,-2.4000000000000004,False
+LTU,"Lithuania, Republic of",5.95,6.875,"Lithuania, Republic of",0.9249999999999998,False
+PRI,Puerto Rico,6.0,5.9,Puerto Rico,-0.09999999999999964,False
+PAK,Pakistan,6.0,7.5,Pakistan,1.5,False
+BLZ,Belize,6.09874,3.345621,Belize,-2.7531190000000003,False
+SVK,Slovak Republic,6.15,5.85,Slovakia,-0.3000000000000007,False
+PRT,Portugal,6.175,6.566667,Portugal,0.391667,False
+JAM,Jamaica,6.266667,4.4,Jamaica,-1.8666669999999996,False
+CYP,Cyprus,6.275,5.740557,Cyprus,-0.5344430000000004,False
+MNG,Mongolia,6.4,5.3,Mongolia,-1.1000000000000005,False
+FJI,"Fiji, Republic of",6.5,6.5,"Fiji, Republic of",0.0,False
+FIN,Finland,6.75,7.225,Finland,0.47499999999999964,False
+HRV,"Croatia, Republic of",6.783333,6.216667,"Croatia, Republic of",-0.5666659999999997,False
+MUS,Mauritius,6.803,6.1064,Mauritius,-0.6966000000000001,False
+ARG,Argentina,6.825,6.125,Argentina,-0.7000000000000002,False
+PRY,Paraguay,6.825,5.925,Paraguay,-0.9000000000000004,False
+LVA,"Latvia, Republic of",6.850971,6.505935,"Latvia, Republic of",-0.34503600000000034,False
+FRA,France,7.308333,7.341667,France,0.033333999999999975,False
+EGY,"Egypt, Arab Republic of",7.324255,7.185155,"Egypt, Arab Republic of",-0.1391,False
+SWE,Sweden,7.483333,7.666667,Sweden,0.18333400000000033,False
+PER,Peru,7.751394,6.784355,Peru,-0.9670390000000006,False
